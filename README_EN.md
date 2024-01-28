@@ -8,7 +8,7 @@ This project aims to provide effective decision support for stock market trading
 
 ## 📈 Summary
 
-In this article, we focus on high-frequency trading (HFT) — an electronic trading method that uses the high-speed computing power of computers to profit from extremely short-term market changes. Our research mainly focuses on the Chinese stock market, by applying a variety of high-frequency trading strategies to improve the returns of specific stock portfolios, while integrating an abnormal event detection system to adapt to diverse application scenarios.
+In this project, we focus on high-frequency trading (HFT) — an electronic trading method that uses the high-speed computing power of computers to profit from extremely short-term market changes. Our research mainly focuses on the Chinese stock market, by applying a variety of high-frequency trading strategies to improve the returns of specific stock portfolios, while integrating an abnormal event detection system to adapt to diverse application scenarios.
 
 Main tasks include:
 
