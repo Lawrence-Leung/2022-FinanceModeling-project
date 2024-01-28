@@ -2,7 +2,7 @@
 
 ## 🏆 Project Introduction
 
-Welcome to our project repository! Here is a collection of our work that **won the first prize in the third "Greater Bay Area Cup" Guangdong, Hong Kong and Macao Financial Mathematical Modeling Competition in November 2022** - **"A Strategy Design and Abnormal Transaction Identification Model for High-Frequency Trading"** .
+Welcome to our project repository! Here is a collection of our work that **won the first prize in the third "Greater Bay Area Cup" Guangdong, Hong Kong and Macao Financial Mathematical Modeling Competition for University Students in November 2022** - **"A Strategy Design and Abnormal Transaction Identification Model for High-Frequency Trading"** .
 
 This project aims to provide effective decision support for stock market trading through innovative high-frequency trading strategies and abnormal trading identification models.
 
